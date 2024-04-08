@@ -5,9 +5,9 @@
 ```json
 me = {
     "name": "Gustavo Henrique",
-    "age": "21",
+    "age": "24",
     "local": "Brazil",
-    "skills": ["NodeJS", "React", "React Native" ]
+    "skills": ["NodeJS", "React", "React Native", "NestJS" ]
   }
 ```
 
