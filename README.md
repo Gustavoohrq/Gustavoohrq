@@ -6,7 +6,7 @@ me = {
     "name": "Gustavo Henrique",
     "age": "24",
     "local": "Brazil",
-    "skills": ["NodeJS", "React", "React Native", "NestJS" ]
+    "skills": ["NodeJS", "React", "Springboot", "NestJS" ]
   }
 ```
 
