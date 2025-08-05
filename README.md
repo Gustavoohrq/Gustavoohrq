@@ -4,9 +4,9 @@
 ```json
 me = {
     "name": "Gustavo Henrique",
-    "age": "24",
+    "age": "25",
     "local": "Brazil",
-    "skills": ["NodeJS", "React", "Springboot", "NestJS" ]
+    "skills": ["NodeJS", "React", "Springboot", "NestJS", "Java", "Kotlin" ]
   }
 ```
 
