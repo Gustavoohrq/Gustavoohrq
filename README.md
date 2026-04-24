@@ -9,6 +9,7 @@ me = {
     "frontend": ["React", "TypeScript", "Angular"],
     "data_infrastructure": {
       "streaming": "Apache Kafka",
+      "observability": ["Dynatrace", "Log4j"],
       "databases": ["SQL Server", "MongoDB", "Redis"],
       "cloud": "Azure"
     }
